@@ -24,11 +24,11 @@ It includes key metrics such as: `order_date`, `session_date`, `price`, `account
 ## Analysis and Insights
 
 This project explores:
-* **KEY SALES AND USER METRICS ANALYSIS**
-* **SALES DYNAMICS ANALYSIS**
-* **PIVOT TABLES AND AGGREGATED METRICS**
-* **STATISTICAL ANALYSIS OF RELATIONSHIP**
-* **STATISTICAL ANALYSIS OF DIFFERENCES BETWEEN GROUPS**
+* **Key Sales and User Metrics:** Analysis of fundamental sales figures and user characteristics.
+* **Sales Dynamics:** Examination of how sales metrics evolve over time.
+* **Pivot Tables and Aggregated Metrics:** Utilization of summarized data to highlight important trends and totals.
+* **Statistical Analysis of Relationships:** Investigation into the correlations and connections between different variables.
+* **Statistical Analysis of Differences Between Groups:** Comparison of metrics across various user segments or categories to identify significant variations.
 
 Key insights include:
 * A significant portion of revenue originates from users in the United States and the Americas.
